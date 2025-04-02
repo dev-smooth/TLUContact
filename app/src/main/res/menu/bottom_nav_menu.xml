@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
-
     <item
-        android:id="@+id/navigation_employees"
-        android:icon="@drawable/ic_home_black_24dp"
-        android:title="@string/title_employees" />
-
+        android:id="@+id/departmentListFragment"
+        android:icon="@android:drawable/ic_menu_sort_by_size"
+        android:title="Department" />
     <item
-        android:id="@+id/navigation_units"
-        android:icon="@drawable/ic_dashboard_black_24dp"
-        android:title="@string/title_units" />
-
-
+        android:id="@+id/studentListFragment"
+        android:icon="@android:drawable/ic_menu_myplaces"
+        android:title="Student" />
 </menu>
