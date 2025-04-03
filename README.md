@@ -78,8 +78,8 @@ app/
          │   ├── viewmodel/
          │   │   ├── StudentViewModel.java
          │   │   └── DepartmentViewModel.java
- 	       |   ├── util
- 	       |   |   └── FireStoreInstance.java
+ 	     │   ├── util
+ 	     │   │   └── FireStoreInstance.java
          │   ├── view/
          │   │   ├── adapter/
          │   │   │   ├── StudentAdapter.java
@@ -87,8 +87,8 @@ app/
          │   │   ├── fragment/
          │   │   │   ├── StudentListFragment.java
          │   │   │   └── DepartmentListFragment.java
-         | 	 |   ├── RegisterActivity.java	
- 	       |   |   ├── LoginActivity.java
+         │ 	 │   ├── RegisterActivity.java	
+ 	     │   │   ├── LoginActivity.java
          │   │   └── MainActivity.java
          ├── res/
              ├── layout/
@@ -97,8 +97,8 @@ app/
              │   ├── fragment_department_list.xml
              │   ├── item_student.xml
              │   └── item_department.xml
- 	           ├── menu
- 	           |   └──bottom_nav_menu.xml 
+ 	         ├── menu
+ 	         │   └──bottom_nav_menu.xml 
              ├── navigation/
              │   └── nav_graph.xml
              └── values/
